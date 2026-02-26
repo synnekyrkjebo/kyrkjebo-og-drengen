@@ -49,3 +49,18 @@ nav a:hover {
   height: 100%;
   border: none;
 }
+
+.om {
+  width: 85%;
+  max-width: 900px;
+  margin: 60px auto;
+  line-height: 1.7;
+}
+
+.om h2 {
+  margin-bottom: 30px;
+}
+
+.om p {
+  margin-bottom: 25px;
+}
