@@ -13,10 +13,9 @@ Formålet er å presentere bandet og gjøre det enkelt å ta kontakt for booking
 ## Videre utvikling
 
 Planen er å:
-- Legge til konsertoversikt og link til billetside
+- Legge til konsertoversikt og link til billetside?
 - Legge til bilder når jeg får bilde albumet til sendt
-- Redigere ferdig og laste opp promovideo på youtube 
-- Legge inn link til promovideo fra YouTube
+- Redigere thumbnail på video?
 
 ## Designskisse
 
