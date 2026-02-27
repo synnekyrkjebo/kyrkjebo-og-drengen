@@ -14,8 +14,9 @@ Formålet er å presentere bandet og gjøre det enkelt å ta kontakt for booking
 
 Planen er å:
 - Legge til konsertoversikt og link til billetside?
-- Legge til spotify link
 - Redigere thumbnail på video?
+- Forbedre design
+- Optimalisere for mobil
 
 ## Designskisse
 
